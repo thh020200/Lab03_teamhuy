@@ -1,1 +1,13 @@
 # Lab03_teamhuy
+-	Cấu hình, thiết lập cơ bản
+-	Lệnh tạo Repo mới
+-	Lệnh commit files
+-	Push lên remote repository
+-	Clone một remote repository
+-	Pull từ remote repository
+-	Lệnh phục hồi về một phiên bản trước
+-	Lệnh xem lịch sử các phiên bản
+-	Lệnh tạo nhánh, xóa nhánh
+-	Lệnh chuyển qua làm việc tại các nhánh khác nhau
+-	Lệnh merge từ các nhánh
+-	Lệnh merge trong trạng thái xung đột
